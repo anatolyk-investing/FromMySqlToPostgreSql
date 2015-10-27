@@ -15,7 +15,7 @@
  * 
  * You should have received a copy of the GNU General Public License
  * along with this program (please see the "LICENSE.md" file).  
- * If not, see <http://www.gnu.org/licenses/gpl.txt>.
+ * If not, see <http://www.gnu.org/licenses/gpl.txt>
  */
 
 /**
